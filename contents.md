@@ -1,17 +1,20 @@
 #测定清理电脑备份
-<br>##android
-
-<br>* collection
-<br>* xmpp
-<br>* 
-
-<br>##qt
-
-<br>##javaweb
-
-<br>##test
-
-<br>##workspace
+<br>
+##android
+<br>
+* collection
+<br>
+* xmpp
+<br>
+* 
+<br>
+##qt
+<br>
+##javaweb
+<br>
+##test
+<br>
+##workspace
 
    df d sd `jhk`
 
