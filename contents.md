@@ -1,22 +1,22 @@
 #测定清理电脑备份
-##android
+<br>##android
+
+<br>* collection
+<br>* xmpp
+<br>* 
 
 <br>##qt
 
 <br>##javaweb
 
+<br>##test
 
-
-
-<br> test
+<br>##workspace
 
    df d sd `jhk`
 
 
-[我的博客]( http://blog.csdn.net/r4w2y6) 
 
-
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
 
 *ss呢称：flygle
 *年龄：21
@@ -52,3 +52,9 @@
 [![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
 
+
+
+
+
+
+[我的博客](http://blog.csdn.net/r4w2y6 "yaya")  
