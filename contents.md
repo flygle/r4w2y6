@@ -1,14 +1,10 @@
 #测定清理电脑备份
-<br>
 ##android
 
 <br>##qt
 
 <br>##javaweb
 
-<br>##utils
-
-<br>##workspace
 
 
 
@@ -22,10 +18,11 @@
 
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
 
-*呢称：flygle
+*ss呢称：flygle
 *年龄：21
 *日期：2014-10-21 16:27:12
-  *呢称：flygle
+* sads as
+ * 呢称：flygle
     *年龄：21
      *日期：2014-10-21 16:27:12
      
