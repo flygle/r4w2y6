@@ -15,14 +15,11 @@
 <br>
 ##workspace
 <br>
+
  * 呢称：flygle
-    *年龄：21
-     *日期：2014-10-21 16:27:12
+     * 日期：2014-10-21 16:27:12
 [![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
-
-
-
 
 
 
